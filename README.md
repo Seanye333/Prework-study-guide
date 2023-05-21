@@ -13,7 +13,8 @@ I learned how to use the command line to set up SSH keys and licenses, and to co
 NA
 
 ## Usage
-
+    Webpage: https://seanye333.github.io/Prework-study-guide/
+    Open Manually by following below
 	1. Downloading and saving the files to the computer, 
 	2. Directing to the file and opening the code with the Command line
 	3. In VS, run the index.html code by clicking on Alt+B
